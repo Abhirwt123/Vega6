@@ -483,9 +483,7 @@ input::placeholder {
 }
 
 .wrap-6 a {
-  padding: 10px;
-  border-radius: 6px;
-  overflow: hidden;
+  margin-bottom: 10px;
 }
 
 .wrap-6 .recent-product-content p {
@@ -524,7 +522,7 @@ input::placeholder {
 
 .wrap-6 .recent-product-logo img {
   width: 100%;
-  transform: scale(1.5);
+  transform: scale(1.9);
 }
 
 .wrap-6 .recent-product-img {
