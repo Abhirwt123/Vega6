@@ -1,0 +1,632 @@
+@media (max-width: 1399.98px) {
+    .wrap-4 .card {
+        width: 350px;
+        height: 221px;
+        background: #21A4DC;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .search-boxs {
+        position: relative;
+        left: 75px;
+    }
+
+    .social-icon a {
+        margin-left: 5px;
+    }
+    .wrap-7 .card {
+        height: 480px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+
+    .header-contact a {
+        font-size: 13px;
+
+    }
+    .wrap-4 .card {
+        max-width: 100%;
+        height: 221px;
+        background: #21A4DC;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .upcoming-product-img {
+        padding-top: 72px;
+        margin-bottom: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .wrap-6 {
+        height: 600px;
+    }
+
+    .wrap-6 .recent-product-img img {
+        width: 245px;
+    }
+
+    .feature {
+        justify-content: center !important;
+    }
+
+    .wrap-19 .gallery-container .tz-gallery .row a img {
+        width: 456px;
+    }
+  
+
+}
+
+@media (max-width: 1152px) {
+    .wrap-7 .card {
+        height: 430px;
+    }
+}
+@media (max-width: 906px) {
+    .wrap-7 .card {
+        height: 400px;
+    }
+}
+@media (max-width: 982px) {
+    .wrap-7 .card {
+        height: 388px;
+    }
+}
+@media (max-width: 746px) {
+    .wrap-7 .card {
+        height: 410px;
+    }
+}
+
+@media (max-width: 528px) {
+    .wrap-7 .card {
+        height:406px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .wrap-6 .recent-product-img {
+        width: 270px;
+    }
+
+    .wrap-6 .recent-product-img img {
+        width: 100%;
+    }
+
+    .wrap-6 p {
+        font-size: 14px;
+    }
+
+    .wrap-4 .card .icon {
+        width: 23px;
+    }
+
+    .wrap-4 .icon i {
+        font-size: 22px;
+        color: #02faf5;
+    }
+
+    .wrap-4 .card p {
+        color: #fff;
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 400;
+    }
+
+    .wrap-7 p {
+        font-size: 14px;
+    }
+
+    .vega-logo {
+        position: relative;
+        left: 39px;
+    }
+
+    .header-contact {
+        margin-left: -32px;
+    }
+
+    .phone {
+        width: 133px;
+        margin-right: 0 !important;
+    }
+
+    .mail {
+        width: 170px;
+    }
+
+    .wrap-2 ul li a {
+        font-size: 15px;
+    }
+
+    #search-box {
+        width: 60% !important;
+    }
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none !important;
+    }
+
+    .featured-image-container .card {
+        height: 335px;
+        width: 425px;
+        margin-left: -95px;
+    }
+
+
+    .side-menu {
+        display: none;
+    }
+
+    .wrap-4 .tittle-wrapper p {
+        font-size: 42px;
+    }
+
+    .wrap-19 .gallery-container .tz-gallery .row a img {
+        height: 420px;
+        width: 350px;
+        margin-bottom: 25px;
+        object-fit: cover;
+    }
+
+
+
+}
+
+@media (max-width: 767.98px) {
+    .navbar_menu {
+        position: fixed;
+        max-width: 370px;
+        width: 350px;
+        top: 0;
+        left: -370px;
+        height: 100vh;
+        z-index: 9999;
+        transition: all 0.4s linear;
+        align-items: unset;
+
+    }
+
+    .close-bar {
+        display: block;
+        position: absolute;
+        right: 5px;
+    }
+
+    .close-bar i {
+        color: #fff;
+        font-size: 30px;
+
+    }
+
+    .dropdown-menu {
+        background: none;
+        border: none;
+
+    }
+
+    .dropdown-item:focus,
+    .dropdown-item:hover {
+        background: none !important;
+    }
+
+    .dropdown-menu a {
+        color: #fff !important;
+    }
+
+    .wrap-2 ul li {
+        margin-left: 50px;
+    }
+
+    .wrap-2 .contact-btn {
+        margin-left: 50px;
+    }
+
+    .wrap-2 ul li a {
+        font-size: 19px;
+    }
+
+    .menu-bar {
+        display: block;
+        position: absolute;
+        right: 16px;
+        top: 18px;
+        z-index: 2;
+    }
+
+    .menu-bar i {
+        font-size: 26px;
+        color: #36A1D6;
+    }
+
+    .navbar-nav {
+        padding-top: 50px;
+        transition: all 0.4s linear;
+
+    }
+
+    #navbar-nav {
+        transition: all 0.4s linear;
+
+    }
+
+    .navbar-container {
+        justify-content: unset;
+        display: block;
+        transition: all 0.4s linear;
+
+    }
+
+    .navbar {
+        display: block;
+        transition: all 0.4s linear;
+    }
+
+    form.search-boxs {
+        display: none !important;
+
+    }
+
+    .vega-logo {
+        position: static;
+        margin-left: -18px;
+    }
+
+    .header-contact {
+        margin-left: -100px;
+    }
+
+    .tittle-wrapper br {
+        display: none;
+
+    }
+
+    .tittle-wrapper {
+        text-align: center;
+    }
+
+    .col-md-6.wrap-4-card {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .wrap-6 {
+        height: 860px;
+    }
+
+    .wrap-6 .recent-product-img {
+        margin: 35px auto;
+    }
+
+    .wrap-7 .blog-head {
+        padding: 0px 0px;
+    }
+
+    .blog-card.swiper-slide {
+        width: 260px !important;
+    }
+
+    .footer .col-md-5.col-12 {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .footer .col-md-2.col-12 {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .footer .col-md-3.col-12 {
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: 12px;
+
+    }
+
+    .wrap-9 .footer h4:before {
+        left: unset;
+        margin-bottom: 10px;
+
+    }
+
+    .copyright {
+        text-align: center;
+    }
+
+    .page ul {
+        justify-content: center !important;
+    }
+
+    .wrap-9 .footer h4 {
+        margin-bottom: 10px;
+    }
+
+    .wrap-4 .card {
+        max-width: 100%;
+        height: 221px;
+        background: #21A4DC;
+        padding: 20px;
+        border-radius: 12px;
+        text-align: left;
+    }
+
+    .wrap-14 .word-product {
+        margin-bottom: 25px;
+    }
+
+    .wrap-14 .col-xl-4.col-md-6.col-12 {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .wrap-22 .col-xl-4.col-md-6.col-12 {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .wrap-15 {
+        height: 515px;
+    }
+
+    .wrap-13 {
+        height: 640px;
+        max-height: 640px;
+    }
+
+    .wrap-3 .head-section p {
+        font-size: 15px;
+
+    }
+
+    .wrap-26 .about-head-para p {
+        padding-top: 23px;
+        font-size: 17px;
+    }
+
+    .wrap-26 .about-head-para p br {
+        display: none;
+    }
+
+    .wrap-12 ul li {
+        margin: 5px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .header-contact {
+        display: none;
+    }
+
+    .social-icon {
+        display: none;
+    }
+
+    .vega-logo {
+        margin: 0 auto;
+    }
+
+    .wrap-7 .blog-head {
+        display: block;
+    }
+
+    .wrap-8 .owl-carousel .owl-nav.disabled {
+        display: none !important;
+    }
+
+    .wrap-10 .copyright a {
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .wrap-10 .page ul li a {
+        font-size: 14px;
+    }
+
+    .wrap-13 .soft-head-section h1 {
+        font-size: 41px;
+    }
+
+    .wrap-13 {
+        height: 315px;
+        max-height: 315px;
+    }
+
+    .wrap-13 .soft-head-section {
+        padding-top: 55px;
+    }
+
+    .wrap-22 .Shopify-product {
+        max-width: 100%;
+    }
+
+    .wrap-21 {
+        height: 380px;
+        max-height: 380px;
+    }
+
+    .wrap-21 .Shopify-head-section h1 {
+        padding-top: 65px;
+        color: #009FE6;
+        font-size: 65px;
+        font-family: 'PT Serif', serif;
+        font-weight: 800;
+    }
+
+    .featured-image-container .card {
+        width: 300px;
+        margin-left: -44px;
+        height: 303px;
+    }
+
+    .job-application-wrapper .job-application-form .form-group.check-gender .custom-radio .custom-control-label {
+        width: 134px;
+    }
+
+    .wrap-28 .blog-img-fixed {
+        width: 100%;
+        z-index: 1;
+        overflow: hidden;
+    }
+
+    .wrap-28 .blog-page {
+        padding: 20px;
+    }
+
+    .wrap-7 .swiper-button-next,
+    .swiper-button-prev {
+        /* background-color: rgb(0 0 0 / 51%) !important; */
+        background-color: transparent !important;
+        right: -16px;
+        padding: 30px;
+        color: #000 !important;
+        fill: black !important;
+        stroke: black !important;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -16px !important;
+        right: auto;
+    }
+
+    .tz-gallery .col-sm-6.col-md-6.col-12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .wrap-20 .environment-img {
+        margin: 0 auto;
+    }
+
+    .wrap-20 .working-environment-para {
+        display: block;
+        text-align: center;
+    }
+
+    .recent-product-logo {
+        margin: 0 auto;
+    }
+
+    .wrap-6 .recent-product-logo {
+        width: 219px;
+    }
+
+    .space-top {
+        padding-top: 35px;
+    }
+
+    .navbar_menu {
+        width: 290px;
+    }
+
+    .wrap-5 .upcoming-product-heads P {
+        font-size: 15px;
+    }
+
+    .wrap-4 .tittle-wrapper {
+        padding-top: 39px;
+    }
+
+    .wrap-4 .card:hover {
+        transform: scale(1);
+    }
+
+    .upcoming-product-img {
+        padding-top: 0;
+    }
+
+    .wrap-7 {
+        padding-top: 1px;
+        padding-bottom: 40px;
+    }
+
+    .wrap-3 .head-section h1 {
+        font-weight: 600;
+    }
+
+
+}
+
+@media (max-width: 500.98px) {
+    .featured-image-container .card {
+        max-width: 250px;
+        height: 233px;
+        margin-left: -60px;
+    }
+
+    .ipsGrid>.ipsGrid_span7 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .career_background {
+        height: 308px;
+    }
+
+    .feature button {
+        margin-top: 25px;
+    }
+
+    .wrap-16 h1 {
+        padding-top: 40px;
+    }
+
+    .head-section p br {
+        display: none;
+    }
+}
+
+@media (max-width: 334.98px) {
+    .close-bar {
+        right: 35px;
+    }
+
+    .wrap-26 .about-head-para p {
+        font-size: 14px;
+    }
+
+}
+@media (max-width: 1200px) {
+  #gallery {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+  }
+}
+@media (max-width: 800px) {
+  #gallery {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+  }
+}
+@media (max-width: 600px) {
+  #gallery {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+}
+@media (max-width: 900px) {
+  .popup-body {
+    width: 90%;
+    height:fit-content; 
+  }
+
+}
