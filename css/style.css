@@ -12,6 +12,11 @@
   box-sizing: border-box;
 }
 
+.gs_reveal {
+  opacity: 1 !important; 
+   visibility:visible !important;
+
+}
 /* btn animate css */
 .animate-btn {
   box-shadow: 6px 6px #b8263c;
